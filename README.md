@@ -1,5 +1,9 @@
 # llm_service_applications
 
+## MetaVision(Data Warehouse for Vision AI)
+<img width="1700" height="944" alt="image" src="https://github.com/user-attachments/assets/caa13e01-c0f3-4cb8-b5e8-9289e8471d3b" />
+
+
 ## 전체 시나리오
 <img width="296" height="382" alt="image" src="https://github.com/user-attachments/assets/f7e31d34-9fdd-43fc-bcf8-e7c723eba079" />
 
